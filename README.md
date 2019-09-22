@@ -1,2 +1,0 @@
-# badrequest
-Access Denied
